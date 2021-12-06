@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2986721 */
+  src: url('//at.alicdn.com/t/font_2986721_sjgcipl54cj.woff2?t=1638712677054') format('woff2'),
+    url('//at.alicdn.com/t/font_2986721_sjgcipl54cj.woff?t=1638712677054') format('woff'),
+    url('//at.alicdn.com/t/font_2986721_sjgcipl54cj.ttf?t=1638712677054') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-form:before {
+  content: "\e699";
+}
+
+.icon-favor:before {
+  content: "\e64c";
+}
+
+.icon-deliver:before {
+  content: "\e671";
+}
+
+.icon-pay:before {
+  content: "\e673";
+}
+
+.icon-send:before {
+  content: "\e675";
+}
+
+.icon-refund:before {
+  content: "\e6ac";
+}
+
+.icon-cart:before {
+  content: "\e6af";
+}
+
+.icon-message:before {
+  content: "\e6bc";
+}
+
+.icon-link:before {
+  content: "\e6bf";
+}
+
+.icon-share:before {
+  content: "\e6f3";
+}
+
+.icon-service:before {
+  content: "\e6ff";
+}
+
+.icon-favorfill:before {
+  content: "\e64b";
+}

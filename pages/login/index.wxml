@@ -1,1 +1,2 @@
 <button type="primary" plain bindtap="handleGetUserProfile">登录</button>
+<text>Tips：如返回失败请先点击登录按钮，然后拒绝登录即可返回个人中心</text>

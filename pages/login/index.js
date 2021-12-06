@@ -14,6 +14,9 @@ Page({
       },
       fail: (err) => {
         console.log('授权失败');
+        wx.switchTab({
+          url: '/pages/user/index',
+        });
       }
     });
   }
